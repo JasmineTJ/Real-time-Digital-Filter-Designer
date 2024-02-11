@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons\gesture_correct.png</file>
+    <file>icons\gesture_wrong.png</file>
+    <file>icons\gesture.png</file>
+    <file>icons\gesture2.png</file>
+    <file>icons\main.png</file>
+    <file>icons\poles.png</file>
+    <file>icons\zeros.png</file>
+</qresource>
+</RCC>
